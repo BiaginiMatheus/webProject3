@@ -11,4 +11,5 @@ function App() {
   );
 }
 //<img src={logo} alt="UTFaq"/>
+//Teste
 export default App;
